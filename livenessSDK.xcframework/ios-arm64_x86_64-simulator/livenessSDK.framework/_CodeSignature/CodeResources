@@ -16,17 +16,17 @@
 		<data>
 		6i3vLIzAnqub71yjul6YMap9Iig=
 		</data>
-		<key>Main.storyboardc/CameraViewController.nib</key>
-		<data>
-		5gWMERY8f/8H2e8aroRwfvjUquU=
-		</data>
 		<key>Main.storyboardc/DS3-OB-q0f-view-0uk-Gx-44Y.nib</key>
 		<data>
 		IXdiADrVfpUi99uLfm+bVi9EOrA=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
-		KOcc/99fdGWKneQr+1d0n+ycNAE=
+		QGHYBqJy9lt2ixYxKzomsCRSD+Q=
+		</data>
+		<key>Main.storyboardc/LivenessViewController.nib</key>
+		<data>
+		P1O6NtaGp5pcq/5L2vgoMbiqr+o=
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -89,13 +89,6 @@
 			PwVnpE+9iiTaY8jO7jxhHdsjwUInjpE/oyHcKXbElS4=
 			</data>
 		</dict>
-		<key>Main.storyboardc/CameraViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AwX0XrTHk1OlPSoV4kXnlseaYv11xkRWm6OiYmUaBxM=
-			</data>
-		</dict>
 		<key>Main.storyboardc/DS3-OB-q0f-view-0uk-Gx-44Y.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -107,7 +100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CNGv5a2ka9qdcBGyrYXwWUprdZMr2CoBlakXnI6dTno=
+			vfYu2vxnKsUc389Bpt9xUqj+vk3gpe3yjNwhV4tAK84=
+			</data>
+		</dict>
+		<key>Main.storyboardc/LivenessViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FZnVLR4Th5HfWtudV9mRl8QOplfo3tZtI0t9xibIgIY=
 			</data>
 		</dict>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
