@@ -16,6 +16,7 @@ Pod::Spec.new do |spec|
   spec.platform = :ios
   spec.swift_version = "5.0"
   spec.ios.deployment_target  = '11.0'
+  spec.xcconfig          = { 'OTHER_LDFLAGS' => '-weak_framework AVFoundation' }
   spec.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
