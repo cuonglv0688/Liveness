@@ -34,12 +34,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "(([Any]?, Foundation.URL?) -> ())?",
+                "printedName": "(([Any]?, Foundation.URL?, Swift.Bool?) -> ())?",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "([Any]?, Foundation.URL?) -> ()",
+                    "printedName": "([Any]?, Foundation.URL?, Swift.Bool?) -> ()",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -49,7 +49,7 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Tuple",
-                        "printedName": "([Any]?, Foundation.URL?)",
+                        "printedName": "([Any]?, Foundation.URL?, Swift.Bool?)",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -85,6 +85,20 @@
                               }
                             ],
                             "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.Bool?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Bool",
+                                "printedName": "Swift.Bool",
+                                "usr": "s:Sb"
+                              }
+                            ],
+                            "usr": "s:Sq"
                           }
                         ]
                       }
@@ -95,8 +109,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvp",
-            "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvp",
+            "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvp",
             "moduleName": "livenessSDK",
             "declAttributes": [
               "Custom",
@@ -114,12 +128,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "(([Any]?, Foundation.URL?) -> ())?",
+                    "printedName": "(([Any]?, Foundation.URL?, Swift.Bool?) -> ())?",
                     "children": [
                       {
                         "kind": "TypeFunc",
                         "name": "Function",
-                        "printedName": "([Any]?, Foundation.URL?) -> ()",
+                        "printedName": "([Any]?, Foundation.URL?, Swift.Bool?) -> ()",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -129,7 +143,7 @@
                           {
                             "kind": "TypeNominal",
                             "name": "Tuple",
-                            "printedName": "([Any]?, Foundation.URL?)",
+                            "printedName": "([Any]?, Foundation.URL?, Swift.Bool?)",
                             "children": [
                               {
                                 "kind": "TypeNominal",
@@ -165,6 +179,20 @@
                                   }
                                 ],
                                 "usr": "s:Sq"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "Swift.Bool?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "Bool",
+                                    "printedName": "Swift.Bool",
+                                    "usr": "s:Sb"
+                                  }
+                                ],
+                                "usr": "s:Sq"
                               }
                             ]
                           }
@@ -175,8 +203,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvg",
-                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvg",
+                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvg",
                 "moduleName": "livenessSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -194,12 +222,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "(([Any]?, Foundation.URL?) -> ())?",
+                    "printedName": "(([Any]?, Foundation.URL?, Swift.Bool?) -> ())?",
                     "children": [
                       {
                         "kind": "TypeFunc",
                         "name": "Function",
-                        "printedName": "([Any]?, Foundation.URL?) -> ()",
+                        "printedName": "([Any]?, Foundation.URL?, Swift.Bool?) -> ()",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -209,7 +237,7 @@
                           {
                             "kind": "TypeNominal",
                             "name": "Tuple",
-                            "printedName": "([Any]?, Foundation.URL?)",
+                            "printedName": "([Any]?, Foundation.URL?, Swift.Bool?)",
                             "children": [
                               {
                                 "kind": "TypeNominal",
@@ -245,6 +273,20 @@
                                   }
                                 ],
                                 "usr": "s:Sq"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Optional",
+                                "printedName": "Swift.Bool?",
+                                "children": [
+                                  {
+                                    "kind": "TypeNominal",
+                                    "name": "Bool",
+                                    "printedName": "Swift.Bool",
+                                    "usr": "s:Sb"
+                                  }
+                                ],
+                                "usr": "s:Sq"
                               }
                             ]
                           }
@@ -255,8 +297,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvs",
-                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvs",
+                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvs",
                 "moduleName": "livenessSDK",
                 "implicit": true,
                 "accessorKind": "set"
@@ -273,8 +315,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvM",
-                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgtcSgvM",
+                "usr": "s:11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC8callBackySayypGSg_10Foundation3URLVSgSbSgtcSgvM",
                 "moduleName": "livenessSDK",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -997,84 +1039,84 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1258,
+      "offset": 1276,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1343,
+      "offset": 1361,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1382,
+      "offset": 1400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1418,
+      "offset": 1436,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1483,
+      "offset": 1501,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1589,
+      "offset": 1607,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1633,
+      "offset": 1651,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1760,
+      "offset": 1778,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1955,
+      "offset": 1973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2027,
+      "offset": 2045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2087,
+      "offset": 2105,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2126,
+      "offset": 2144,
       "length": 11,
       "value": "\"checkFace\""
     }
