@@ -10,9 +10,11 @@ import _StringProcessing
 @_exported import livenessSDK
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class LivenessViewController : UIKit.UIViewController, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate, AVFoundation.AVCaptureMetadataOutputObjectsDelegate {
   @_Concurrency.MainActor(unsafe) public var callBack: ((_ data: [Any]?, _ video: Foundation.URL?, _ isBegin: Swift.Bool?) -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var clickBackBtn: (() -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var listAction: [Any]?
   @_Concurrency.MainActor(unsafe) public var timeAction: Swift.Int
   @_Concurrency.MainActor(unsafe) public var isRandomAction: Swift.Bool
+  @_Concurrency.MainActor(unsafe) public var isShowBack: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var timeWaiting: Swift.Int
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
