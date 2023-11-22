@@ -13,6 +13,7 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) public var listAction: [Any]?
   @_Concurrency.MainActor(unsafe) public var timeAction: Swift.Int
   @_Concurrency.MainActor(unsafe) public var isRandomAction: Swift.Bool
+  @_Concurrency.MainActor(unsafe) public var timeWaiting: Swift.Int
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)

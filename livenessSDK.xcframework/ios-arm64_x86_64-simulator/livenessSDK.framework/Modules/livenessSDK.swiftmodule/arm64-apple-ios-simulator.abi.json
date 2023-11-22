@@ -630,6 +630,93 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "timeWaiting",
+            "printedName": "timeWaiting",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC11timeWaitingSivp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC11timeWaitingSivp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11timeWaitingSivg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11timeWaitingSivg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11timeWaitingSivs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11timeWaitingSivs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11timeWaitingSivM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11timeWaitingSivM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -1119,6 +1206,27 @@
       "offset": 2144,
       "length": 11,
       "value": "\"checkFace\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2189,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2221,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2255,
+      "length": 1,
+      "value": "5"
     }
   ]
 }
