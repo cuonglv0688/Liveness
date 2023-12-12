@@ -469,6 +469,150 @@
           },
           {
             "kind": "Var",
+            "name": "clickCancelBtn",
+            "printedName": "clickCancelBtn",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14clickCancelBtnyycSgvM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "listAction",
             "printedName": "listAction",
             "children": [
@@ -1357,112 +1501,112 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1449,
+      "offset": 1493,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1534,
+      "offset": 1578,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1573,
+      "offset": 1617,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1609,
+      "offset": 1653,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1674,
+      "offset": 1718,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1780,
+      "offset": 1824,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1813,
+      "offset": 1857,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1853,
+      "offset": 1897,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1980,
+      "offset": 2024,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2175,
+      "offset": 2219,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2247,
+      "offset": 2291,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2307,
+      "offset": 2351,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2346,
+      "offset": 2390,
       "length": 11,
       "value": "\"checkFace\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2391,
+      "offset": 2435,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2423,
+      "offset": 2467,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2457,
+      "offset": 2501,
       "length": 1,
       "value": "5"
     }

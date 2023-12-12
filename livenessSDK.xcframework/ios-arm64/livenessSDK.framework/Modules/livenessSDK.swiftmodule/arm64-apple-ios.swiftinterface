@@ -11,6 +11,7 @@ import _StringProcessing
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class LivenessViewController : UIKit.UIViewController, AVFoundation.AVCaptureVideoDataOutputSampleBufferDelegate, AVFoundation.AVCaptureMetadataOutputObjectsDelegate {
   @_Concurrency.MainActor(unsafe) public var callBack: ((_ data: [Any]?, _ video: Foundation.URL?, _ isBegin: Swift.Bool?) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var clickBackBtn: (() -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var clickCancelBtn: (() -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public var listAction: [Any]?
   @_Concurrency.MainActor(unsafe) public var timeAction: Swift.Int
   @_Concurrency.MainActor(unsafe) public var isRandomAction: Swift.Bool
