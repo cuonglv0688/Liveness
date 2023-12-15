@@ -17,6 +17,10 @@ import _StringProcessing
   @_Concurrency.MainActor(unsafe) public var isRandomAction: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var isShowBack: Swift.Bool
   @_Concurrency.MainActor(unsafe) public var timeWaiting: Swift.Int
+  @_Concurrency.MainActor(unsafe) public var alertFailTitle: Swift.String
+  @_Concurrency.MainActor(unsafe) public var alertFailContent: Swift.String
+  @_Concurrency.MainActor(unsafe) public var alertFailCancel: Swift.String
+  @_Concurrency.MainActor(unsafe) public var alertFailOk: Swift.String
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)

@@ -1092,6 +1092,354 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "alertFailTitle",
+            "printedName": "alertFailTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC14alertFailTitleSSvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC14alertFailTitleSSvp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14alertFailTitleSSvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14alertFailTitleSSvg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14alertFailTitleSSvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14alertFailTitleSSvs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC14alertFailTitleSSvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC14alertFailTitleSSvM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "alertFailContent",
+            "printedName": "alertFailContent",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC16alertFailContentSSvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC16alertFailContentSSvp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC16alertFailContentSSvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC16alertFailContentSSvg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC16alertFailContentSSvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC16alertFailContentSSvs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC16alertFailContentSSvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC16alertFailContentSSvM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "alertFailCancel",
+            "printedName": "alertFailCancel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC15alertFailCancelSSvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC15alertFailCancelSSvp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC15alertFailCancelSSvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC15alertFailCancelSSvg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC15alertFailCancelSSvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC15alertFailCancelSSvs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC15alertFailCancelSSvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC15alertFailCancelSSvM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "alertFailOk",
+            "printedName": "alertFailOk",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11livenessSDK22LivenessViewControllerC11alertFailOkSSvp",
+            "mangledName": "$s11livenessSDK22LivenessViewControllerC11alertFailOkSSvp",
+            "moduleName": "livenessSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11alertFailOkSSvg",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11alertFailOkSSvg",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11alertFailOkSSvs",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11alertFailOkSSvs",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11livenessSDK22LivenessViewControllerC11alertFailOkSSvM",
+                "mangledName": "$s11livenessSDK22LivenessViewControllerC11alertFailOkSSvM",
+                "moduleName": "livenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -1609,6 +1957,34 @@
       "offset": 2501,
       "length": 1,
       "value": "5"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2540,
+      "length": 6,
+      "value": "\"Fail\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2581,
+      "length": 33,
+      "value": "\"Mời bạn thực hiện lại\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2648,
+      "length": 8,
+      "value": "\"Cancel\""
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Data\/Work\/livenessSDK\/livenessSDK\/LivenessViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2686,
+      "length": 4,
+      "value": "\"Ok\""
     }
   ]
 }

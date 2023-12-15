@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		h0HOdc4mCPBXxLUwDKt8Hp27yb0=
+		j6SedXmCyTnF19QNL2FkqrgAso8=
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bQINyFDyB2WPAdwWuomYbboZwT0=
+		SwihWMS5PNRlABoIvG4EhMUpPU4=
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bQINyFDyB2WPAdwWuomYbboZwT0=
+		SwihWMS5PNRlABoIvG4EhMUpPU4=
 		</data>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		m/GUxXnbAfbk+gfYCBDko3nOhjM=
+		4uLy9yVO1sjT4q6zqGBsFbp8rPQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NV9KTr2Gji0IkR659bQfXMCHZJSOyRE/XoAl5qT7yRM=
+			+DELoOfxYPHOFo46+DYk+jX1MvvUUitXvZWq0oQSHDM=
 			</data>
 		</dict>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0S5Ct55GMJV4yFa4qbllHbOPvI7F3gV6oz3A2zBjUpg=
+			NhdSq/I6TrdpsXTBJE/Kal3qTsYXRyugBeUj8cS+Lok=
 			</data>
 		</dict>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -126,14 +126,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0S5Ct55GMJV4yFa4qbllHbOPvI7F3gV6oz3A2zBjUpg=
+			NhdSq/I6TrdpsXTBJE/Kal3qTsYXRyugBeUj8cS+Lok=
 			</data>
 		</dict>
 		<key>Modules/livenessSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PB8sLek8gOjd2BHm3uft7cQ8ND6aD9JoQDzWADfYDks=
+			kpboPO+tIZ3m2Vsf4JM/EMxNpNgP/+zAs9t4gk/nH5g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
